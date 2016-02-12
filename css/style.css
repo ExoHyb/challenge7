@@ -26,3 +26,22 @@ header {
 	text-decoration: none;
 	background-color: #4188BE;
 }
+
+.barre-navigation {
+	height: 62px;
+	background-color: #eaeeef;
+	line-height: 62px;
+}
+
+.navigation {
+	list-style-type: none;
+}
+
+.navigation li {
+	display: inline-block;
+}
+
+.reglage-width {
+	width: 70%;
+	margin: auto;
+}
