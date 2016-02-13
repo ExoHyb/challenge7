@@ -4275,11 +4275,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-width: 1px 0 0;
 }
 .navbar-brand {
+  font-size: 24px;
+  line-height: 1.042;
+  font-family: "Arvo";
+  letter-spacing: 3px;
+  font-weight: 400 !important;
+  padding: 18.5px 15px 20.5px;
   float: left;
-  height: 50px;
-  padding: 15px 15px;
-  font-size: 18px;
-  line-height: 20px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
