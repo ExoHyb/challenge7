@@ -229,3 +229,30 @@ h3 {
 .mod-img-slide {
 	border-radius: 6px;
 }
+
+.content-section-3 {
+	border-top: 1px solid #32465A;
+	border-bottom: 1px solid #32465A;
+	background-color: #34495e;
+	padding: 90px 0;
+}
+
+.white {
+	color: #fff;
+}
+
+.banniere-download {
+	padding: 100px 0;
+	color: #f8f8f8;
+	background: url(../img/banner-bg.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.h2-download {
+	color: #fff;
+	font-size: 63px;
+	margin-top: 30px;
+	margin-bottom: 5px;
+	font-weight: 700;
+	line-height: 1.1;
+}
