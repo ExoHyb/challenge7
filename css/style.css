@@ -256,3 +256,60 @@ h3 {
 	font-weight: 700;
 	line-height: 1.1;
 }
+
+.background-footer-blue {
+	background-color: #34485D;
+	color: #fff;
+}
+
+.background-footer-blue a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.background-footer-blue a:hover {
+	text-decoration: none;
+}
+
+.background-footer-blue ul {
+	list-style-type: none;
+}
+
+.background-footer-grey {
+	background-color: #EDEFF1;
+	margin-bottom: 50px;
+}
+
+.social {
+	list-style-type: none;
+}
+
+.social i{
+	font-size: 2em;
+	color: #34495e;
+}
+
+.social i:hover {
+	color: #1abc9c;
+}
+
+.input-group-addon {
+	padding: 10px 12px;
+	font-size: 15px;
+	color: #ffffff;
+	text-align: center;
+	background-color: #bdc3c7;
+	border: 1px solid #bdc3c7;
+	border-radius: 6px;
+	padding: 10px 12px;
+	font-size: 15px;
+	color: #ffffff;
+	text-align: center;
+	background-color: #bdc3c7;
+	border: 1px solid #bdc3c7;
+	border-radius: 6px;
+}
+
+.form-group {
+	margin-bottom: 20px;
+}
